@@ -4,11 +4,17 @@ Databehandlingskursen HT23 för AI23
 # Databehandling
 ---
 Kursen ingår i utbildningen: Utvecklare inom AI och maskininlärning
+
 Kursens omfattning: 25p
+
 Undervisningsspråk: Svenska
+
 Förkunskaper: Inga
+
 Valbar kurs: Nej
+
 Utbildningsnummer och omgång: YH-01462 - 2021 – 1, 2 & 3
+
 Beslutsdatum för kursplan: 2021-09-21
 ## Kursens huvudsakliga innehåll
 Kursen behandlar typiska tekniker för datautforskning och databehandling, även kallat data mining.
