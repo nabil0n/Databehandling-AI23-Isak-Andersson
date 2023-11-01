@@ -1,0 +1,12 @@
+,aspiration,body-style,bore,city-mpg,compression-ratio,curb-weight,drive-wheels,engine-location,engine-size,engine-type,fuel-system,fuel-type,height,highway-mpg,horsepower,length,make,normalized-losses,num-of-cylinders,num-of-doors,peak-rpm,price,stroke,symboling,wheel-base,width
+194,std,sedan,3.7800000000000002,23,9.5,2912,rwd,front,141,ohc,mpfi,gas,56.2,28,114.0,188.8,volvo,103.0,four,four,5400.0,12940.0,3.15,-2,104.3,67.2
+195,std,wagon,3.7800000000000002,23,9.5,3034,rwd,front,141,ohc,mpfi,gas,57.5,28,114.0,188.8,volvo,74.0,four,four,5400.0,13415.0,3.15,-1,104.3,67.2
+196,std,sedan,3.7800000000000002,24,9.5,2935,rwd,front,141,ohc,mpfi,gas,56.2,28,114.0,188.8,volvo,103.0,four,four,5400.0,15985.0,3.15,-2,104.3,67.2
+197,std,wagon,3.7800000000000002,24,9.5,3042,rwd,front,141,ohc,mpfi,gas,57.5,28,114.0,188.8,volvo,74.0,four,four,5400.0,16515.0,3.15,-1,104.3,67.2
+198,turbo,sedan,3.62,17,7.5,3045,rwd,front,130,ohc,mpfi,gas,56.2,22,162.0,188.8,volvo,103.0,four,four,5100.0,18420.0,3.15,-2,104.3,67.2
+199,turbo,wagon,3.62,17,7.5,3157,rwd,front,130,ohc,mpfi,gas,57.5,22,162.0,188.8,volvo,74.0,four,four,5100.0,18950.0,3.15,-1,104.3,67.2
+200,std,sedan,3.7800000000000002,23,9.5,2952,rwd,front,141,ohc,mpfi,gas,55.5,28,114.0,188.8,volvo,95.0,four,four,5400.0,16845.0,3.15,-1,109.1,68.9
+201,turbo,sedan,3.7800000000000002,19,8.7,3049,rwd,front,141,ohc,mpfi,gas,55.5,25,160.0,188.8,volvo,95.0,four,four,5300.0,19045.0,3.15,-1,109.1,68.8
+202,std,sedan,3.58,18,8.8,3012,rwd,front,173,ohcv,mpfi,gas,55.5,23,134.0,188.8,volvo,95.0,six,four,5500.0,21485.0,2.87,-1,109.1,68.9
+203,turbo,sedan,3.01,26,23.0,3217,rwd,front,145,ohc,idi,diesel,55.5,27,106.0,188.8,volvo,95.0,six,four,4800.0,22470.0,3.4,-1,109.1,68.9
+204,turbo,sedan,3.7800000000000002,19,9.5,3062,rwd,front,141,ohc,mpfi,gas,55.5,25,114.0,188.8,volvo,95.0,four,four,5400.0,22625.0,3.15,-1,109.1,68.9
