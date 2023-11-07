@@ -12,6 +12,8 @@ ipykernel = "*"
 scikit-learn = "*"
 jinja2 = "*"
 lxml = "*"
+plotly-express = "*"
+nbformat = "*"
 
 [dev-packages]
 
