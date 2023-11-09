@@ -4,6 +4,7 @@
 - Spara grafer till Visualiseringar-mappen
 - Vad var det som stod angående bakgrundsfärg i plottarna?
 - Se över variabelnamn!
+- Lek med positionsdata? :D
 
 ## uppgift 1
 - 2x2 grids i sns
