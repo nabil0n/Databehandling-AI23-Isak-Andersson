@@ -12,9 +12,8 @@
 - Extra: uppdatera till modernare data
 
 ## uppgift 2
-- f) kolla om du kan lösa "färg" problemet (linjer gör det till dålig alpha)
-- f och g) Du summerar nu endast bara procentvärdet, det kan väl inte vara det som menas?
 - Stor möjligheter till tolkning. Vad menas?
+- f och g) Förändra till %
 
 ## uppgift 3
 - hela uppgiften
