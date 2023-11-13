@@ -1,0 +1,128 @@
+CountryName,year_week_W,indicator,value,value_level,trend
+Belgium,2023-W44,Case rate,26,1,decreasing
+Belgium,2023-W44,Positivity (%),10.8,4,decreasing
+Belgium,2023-W44,Testing rate,107.1,4,stable
+Belgium,2023-W44,65+yr,67.4,3,decreasing
+Bulgaria,2023-W44,Case rate,60.6,2,stable
+Bulgaria,2023-W44,Positivity (%),12.7,4,decreasing
+Bulgaria,2023-W44,Testing rate,214.2,4,stable
+Bulgaria,2023-W44,Death rate,6.4,1,increasing
+Bulgaria,2023-W44,Hospital occupancy,6.6,1,stable
+Bulgaria,2023-W44,ICU occupancy,0.4,1,stable
+Cyprus,2023-W44,Testing rate,2760.6,4,stable
+Czechia,2023-W44,Case rate,90.7,2,increasing
+Czechia,2023-W44,Positivity (%),25.4,4,stable
+Czechia,2023-W44,Testing rate,191.7,4,stable
+Czechia,2023-W44,Death rate,4.6,1,stable
+Czechia,2023-W44,Hospital admissions,2.6,1,stable
+Czechia,2023-W44,ICU admissions,0.2,1,stable
+Czechia,2023-W44,65+yr,178.6,4,increasing
+Estonia,2023-W44,Case rate,52.6,2,increasing
+Estonia,2023-W44,Positivity (%),18.4,4,increasing
+Estonia,2023-W44,Testing rate,174.1,4,stable
+Estonia,2023-W44,Death rate,6.8,1,increasing
+Estonia,2023-W44,Hospital admissions,11.2,2,increasing
+Estonia,2023-W44,ICU admissions,0.3,1,increasing
+Estonia,2023-W44,ICU occupancy,0.6,1,increasing
+Estonia,2023-W44,65+yr,143.7,3,increasing
+EU/EEA,2023-W44,Case rate,47.8,2,decreasing
+EU/EEA,2023-W44,Positivity (%),10,4,stable
+EU/EEA,2023-W44,Testing rate,227.3,4,stable
+EU/EEA,2023-W44,Death rate,3,1,stable
+EU/EEA,2023-W44,Hospital admissions,1.7,1,decreasing
+EU/EEA,2023-W44,ICU admissions,0.1,1,stable
+EU/EEA,2023-W44,Hospital occupancy,3.9,1,stable
+EU/EEA,2023-W44,ICU occupancy,0.2,1,stable
+EU/EEA,2023-W44,65+yr,111.1,3,decreasing
+Greece,2023-W44,Case rate,180.3,3,decreasing
+Greece,2023-W44,Positivity (%),5.3,3,stable
+Greece,2023-W44,Testing rate,1671.6,4,stable
+Greece,2023-W44,Death rate,12.2,1,stable
+Greece,2023-W44,Hospital admissions,7.5,1,decreasing
+Greece,2023-W44,ICU admissions,0.2,1,increasing
+Greece,2023-W44,65+yr,358.7,4,decreasing
+Hungary,2023-W44,Case rate,21,1,stable
+Hungary,2023-W44,Positivity (%),24.1,4,stable
+Hungary,2023-W44,Testing rate,37.5,4,stable
+Hungary,2023-W44,Death rate,0.6,1,stable
+Hungary,2023-W44,Hospital admissions,1.1,1,stable
+Hungary,2023-W44,ICU admissions,0.1,1,decreasing
+Hungary,2023-W44,65+yr,40.6,2,stable
+Ireland,2023-W44,Case rate,18.5,1,decreasing
+Ireland,2023-W44,Positivity (%),11.1,4,stable
+Ireland,2023-W44,Testing rate,74.8,4,stable
+Ireland,2023-W44,Death rate,0.4,1,stable
+Ireland,2023-W44,Hospital admissions,3.2,1,decreasing
+Ireland,2023-W44,ICU admissions,0.1,1,stable
+Ireland,2023-W44,Hospital occupancy,4.5,1,stable
+Ireland,2023-W44,ICU occupancy,0.1,1,decreasing
+Ireland,2023-W44,65+yr,71.3,3,decreasing
+Italy,2023-W44,Case rate,58.2,2,decreasing
+Italy,2023-W44,Death rate,2.1,1,stable
+Italy,2023-W44,Hospital admissions,0.2,1,stable
+Italy,2023-W44,ICU admissions,0,1,stable
+Italy,2023-W44,65+yr,103.2,3,decreasing
+Latvia,2023-W44,Case rate,17.1,1,increasing
+Latvia,2023-W44,Positivity (%),29.8,4,stable
+Latvia,2023-W44,Testing rate,32.8,4,stable
+Latvia,2023-W44,Death rate,9.6,1,stable
+Latvia,2023-W44,Hospital admissions,11.4,2,increasing
+Latvia,2023-W44,ICU admissions,0.1,1,stable
+Latvia,2023-W44,ICU occupancy,0.1,1,stable
+Latvia,2023-W44,65+yr,34.5,2,increasing
+Lithuania,2023-W44,Case rate,66,2,stable
+Lithuania,2023-W44,Positivity (%),36,4,increasing
+Lithuania,2023-W44,Testing rate,154.5,4,decreasing
+Lithuania,2023-W44,Death rate,1.4,1,stable
+Lithuania,2023-W44,ICU admissions,0.1,1,stable
+Lithuania,2023-W44,65+yr,99.8,3,increasing
+Luxembourg,2023-W44,Case rate,74.2,2,decreasing
+Luxembourg,2023-W44,Positivity (%),23,4,stable
+Luxembourg,2023-W44,Testing rate,131.4,4,decreasing
+Luxembourg,2023-W44,65+yr,180.7,4,stable
+Malta,2023-W44,Case rate,9.8,1,decreasing
+Malta,2023-W44,Death rate,0,1,stable
+Malta,2023-W44,Hospital admissions,1.7,1,decreasing
+Malta,2023-W44,ICU admissions,0.2,1,NA
+Malta,2023-W44,ICU occupancy,0,1,stable
+Malta,2023-W44,65+yr,28,2,decreasing
+Netherlands,2023-W44,Hospital admissions,1.7,1,stable
+Netherlands,2023-W44,ICU admissions,0.1,1,stable
+Netherlands,2023-W44,Hospital occupancy,2.7,1,increasing
+Netherlands,2023-W44,ICU occupancy,0.2,1,stable
+Norway,2023-W44,Case rate,35.4,1,increasing
+Norway,2023-W44,Positivity (%),13.7,4,increasing
+Norway,2023-W44,Testing rate,146.1,4,stable
+Norway,2023-W44,65+yr,94.2,3,increasing
+Poland,2023-W44,Case rate,21.8,1,increasing
+Poland,2023-W44,Positivity (%),35.4,4,stable
+Poland,2023-W44,Testing rate,32,4,stable
+Poland,2023-W44,Death rate,0.8,1,stable
+Portugal,2023-W44,Case rate,13.1,1,decreasing
+Portugal,2023-W44,Death rate,4.5,1,decreasing
+Portugal,2023-W44,Hospital admissions,0,1,stable
+Portugal,2023-W44,65+yr,31.6,2,decreasing
+Romania,2023-W44,Case rate,36.8,1,decreasing
+Romania,2023-W44,Positivity (%),8.7,3,decreasing
+Romania,2023-W44,Testing rate,130.2,4,decreasing
+Romania,2023-W44,Death rate,1.9,1,stable
+Romania,2023-W44,ICU occupancy,0.3,1,stable
+Romania,2023-W44,65+yr,61.4,3,decreasing
+Slovakia,2023-W44,Case rate,20.2,1,stable
+Slovakia,2023-W44,Positivity (%),12.3,4,NA
+Slovakia,2023-W44,Testing rate,67.4,4,NA
+Slovakia,2023-W44,Death rate,0.4,1,stable
+Slovakia,2023-W44,Hospital admissions,2.1,1,decreasing
+Slovakia,2023-W44,ICU admissions,0,1,stable
+Slovakia,2023-W44,65+yr,65.4,3,stable
+Slovenia,2023-W44,Case rate,46.5,2,stable
+Slovenia,2023-W44,Positivity (%),16.1,4,stable
+Slovenia,2023-W44,Testing rate,120.2,4,stable
+Slovenia,2023-W44,Death rate,4.3,1,decreasing
+Slovenia,2023-W44,65+yr,127.9,3,stable
+Sweden,2023-W44,Case rate,45.2,2,increasing
+Sweden,2023-W44,Positivity (%),31,4,increasing
+Sweden,2023-W44,Testing rate,84.4,4,stable
+Sweden,2023-W44,Death rate,7,1,decreasing
+Sweden,2023-W44,ICU admissions,0.2,1,increasing
+Sweden,2023-W44,65+yr,174.8,4,increasing

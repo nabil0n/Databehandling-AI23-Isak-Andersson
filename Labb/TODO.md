@@ -1,22 +1,21 @@
 # Att göra / ännu ej gjort
 
 ## Allmänt
-- Spara grafer till Visualiseringar-mappen
-- Vad var det som stod angående bakgrundsfärg i plottarna?
 - Se över variabelnamn!
-- Lek med positionsdata? :D
+- Förminska antalet celler!
+- **DU FÅR INTE MED SISTA VECKAN I DATAN** ibland...
 
 ## uppgift 1
 - 2x2 grids i sns
-- mouseovergrejer för px
-- Extra: uppdatera till modernare data
+- Extra: uppdatera till modernare data, prio ner
 
 ## uppgift 2
 - Stor möjligheter till tolkning. Vad menas?
-- f och g) Förändra till %
+    - d) Vilka ska räknas som barn? Även de utanför datasetet? Finns korrekt data från när vår tillhandahållana data insamlades?
+- g) jag får en konstig error när jag sätter hover_data (index)? what gives?
 
 ## uppgift 3
-- hela uppgiften
+- Är KPIerna tillräckliga som självstående KPIer? Lägg till något?
 
 ## uppgift 4
-- hela uppgiften
+- Hitta mer internationell data? Har gjort typ det som går att göra med WHO-filen jag skaffade?
