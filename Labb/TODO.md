@@ -1,12 +1,10 @@
-# Att göra / ännu ej gjort
+# Att göra / ännu ej gjort / tankar
 
 ## Allmänt
-- Se över variabelnamn!
-- Förminska antalet celler!
-- **DU FÅR INTE MED SISTA VECKAN I DATAN** ibland...
+- Se över variabelnamn?
 
 ## uppgift 1
-- 2x2 grids i sns
+- 2x2 grids i sns?
 - Extra: uppdatera till modernare data, prio ner
 
 ## uppgift 2
@@ -18,4 +16,4 @@
 - Är KPIerna tillräckliga som självstående KPIer? Lägg till något?
 
 ## uppgift 4
-- Hitta mer internationell data? Har gjort typ det som går att göra med WHO-filen jag skaffade?
+- Hitta mer internationell data? Har gjort typ det som går att göra med WHO-filen jag skaffade? Geodata?
