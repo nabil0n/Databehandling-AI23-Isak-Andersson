@@ -16,6 +16,7 @@ plotly-express = "*"
 nbformat = "*"
 plotly = "==5.18.0"
 openpyxl = "*"
+dash = "*"
 
 [dev-packages]
 
