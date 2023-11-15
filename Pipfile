@@ -17,6 +17,9 @@ nbformat = "*"
 plotly = "==5.18.0"
 openpyxl = "*"
 dash = "*"
+geojson = "*"
+html5 = "*"
+html5lib = "*"
 
 [dev-packages]
 
