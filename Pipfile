@@ -20,6 +20,7 @@ dash = "*"
 geojson = "*"
 html5 = "*"
 html5lib = "*"
+dash-bootstrap-components = "*"
 
 [dev-packages]
 
